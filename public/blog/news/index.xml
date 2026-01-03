@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Naftiko Docs</title>
+    <link>http://localhost:1313/docs/blog/news/</link>
+    <description>Recent content in Updates on Naftiko Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/blog/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/docs/blog/2025/10/13/hello-world/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/blog/2025/10/13/hello-world/</guid>
+      <description>&lt;p&gt;The purpose of this documentation site is to gather all of the standards and tooling we will be using to build Naftiko in a single browsable and searchable place. This documentation site and blog runs on GitHub using Hugo and Docsy, and is rapdily iterated upon to capture as much of the information we are using to build the platform as we can.&lt;/p&gt;&#xA;&lt;p&gt;The Naftiko Manifest is used to guide the standards and tooling we are using, with further expansion of the glossary, standards, and tooling as this work continues. This blog post is being written when it is just Jerome and Kin working to define the product and go to market for Naftiko, and ideally this site will allow the engineering team to hit the ground running when they join the team.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
