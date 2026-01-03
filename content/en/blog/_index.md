@@ -1,6 +1,6 @@
 ---
-title: Updates
-menu: {main: {weight: 30}}
+title: Blog
+menu: {main: {weight: 70}}
 ---
 
-These are the updates occurring as part of go to market work, providing a single place where we can communicate activity, syndicate to Slack when needed, and allow for subscription via RSS.
+This is the the blog for the Naftiko platform updates, providing a way of communicating updates across the platform as work happens.

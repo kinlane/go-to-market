@@ -1,0 +1,13 @@
+---
+title: World Wide Web Consortium (W3C)
+description: The World Wide Web Consortium (W3C) is an international public-interest nonprofit organization founded in 1994 by web inventor Tim Berners-Lee that develops open standards and guidelines to help build a web based on the principles of accessibility, internationalization, privacy, and security, ensuring the long-term growth and interoperability of the World Wide Web. 
+date: 2025-09-19
+weight: 112
+toc_hide: true
+---
+
+The World Wide Web Consortium (W3C) develops technical standards and guidelines for web technologies that ensure the web remains open, accessible, secure, and interoperable for all users worldwide. W3C creates the standards that define how websites and web applications function, including foundational technologies like HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), XML (Extensible Markup Language), and protocols such as HTTP. These standards provide a framework that ensures consistency across browsers, devices, and operating systems, enabling websites and applications to function seamlessly regardless of platform. Through a transparent, consensus-driven process involving member organizations, full-time staff, and public participation, W3C works to foster compatibility and agreement among industry members in adopting new standards, preventing the fragmentation that could occur if different vendors offered incompatible versions of web technologies.
+
+Beyond core web development standards, W3C addresses critical aspects of the modern web including accessibility (through guidelines like WCAG that make the web usable for people with disabilities), internationalization (ensuring the web works in every language and writing system), privacy, and security (developing authentication technologies and standards to enhance user privacy and secure communications). The organization operates through various working groups where external experts collaborate to develop standards that go through rigorous stages of development—from working drafts to candidate recommendations to final W3C Recommendations—ensuring that standards undergo extensive review and testing under both theoretical and practical conditions. W3C's work ensures a fair and accessible web where developers can have confidence in the tools they're using, knowing they've been vetted by experts, while users experience consistent, high-quality web applications that work across all platforms and devices.
+
+Website - https://www.w3.org/

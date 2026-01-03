@@ -1,6 +1,6 @@
 ---
 title: Services
-date: 2025-09-19
-description: Naftiko go-to-market centers around the services our customers are building capabilities around, and we work to tell stories about what these services matter, and what they are enabling when it comes to the capabilities that the community is needing to do business.
-weight: 10
+date: 2026-01-01
+description: These are all of the services we are currently supporting when it comes to building capabilities, offering a variety of services to support conversations with different companies, adding new ones as they are requested and needed as part of our ongoing Nafitko Signals work.
+weight: 50
 ---

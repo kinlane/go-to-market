@@ -1,6 +1,6 @@
 ---
 title: Motion
-description: These are the building blocks of the Naftiko go-to-market motionn, providing all of the ways in which we are reaching the community when it comes to the standards, tooling, and services we are offering.
 linkTitle: Motion
+description: This is all of the moving parts of the Naftiko go-to-market motion, providing a complete list of what is going on within each area, which are aggregated and expressed as main pages that help guide stories and conversations across multiple channels.
 menu: {main: {weight: 20}}
 ---

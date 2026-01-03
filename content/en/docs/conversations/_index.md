@@ -1,11 +1,7 @@
 ---
-title: Podcasts
-date: 2025-10-16
-description: These are the podcasts currently under development.
+title: Organizations
+date: 2025-09-19
+description: Naftiko is depends on the work of these organizations when it comes to our open-source core, making the standards they produce important, but also other activities that move forward the open-source ecosystem, central to the Naftiko vision and road map.
 weight: 50
 ---
-
-{{% pageinfo %}}
-All video and audio conversations are managed here to provide full video and audio podasts, as well as shorts in alignment wiht other stories.
-{{% /pageinfo %}}
 

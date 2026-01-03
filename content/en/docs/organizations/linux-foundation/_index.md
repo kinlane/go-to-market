@@ -1,0 +1,13 @@
+---
+title: Linux Foundation
+description: The Linux Foundation is a nonprofit organization founded in 2000 that provides a neutral, trusted hub for developers and organizations to code, manage, and scale open source technology projects, supporting approximately 1,000 projects across various industries and delivering tools, training, events, and infrastructure that create an economic impact not achievable by any single company. 
+date: 2025-09-19
+weight: 112
+toc_hide: true
+---
+
+The Linux Foundation is a nonprofit organization founded in 2000 that serves as a neutral, trusted hub for developers and organizations to collaborate on open source technology projects. While originally focused on promoting the Linux operating system, the Foundation has evolved into what it calls a "foundation of foundations," now supporting approximately 1,000 open source projects across software, hardware, standards, and data initiatives in diverse industries including cloud computing, networking, embedded systems, automotive, energy, and more. The Foundation provides essential infrastructure and services that enable these projects to thrive, including project governance frameworks, legal support, trademark and domain management, marketing, event hosting, and financial administration. With over 1,800 company members, the Linux Foundation brings together developers, vendors, and end users to collaborate on solving complex technology problems through shared investment in open source.
+
+Beyond hosting projects, the Linux Foundation provides comprehensive training and certification programs to equip developers with essential skills in open source technologies, holds over 250 events worldwide annually (including major conferences like KubeCon and Open Source Summit), and offers free foundational courses to make technology education more accessible. The Foundation operates on principles of organizational neutrality—ensuring that no single company can control or take away community assets—and maintains a clear separation between financial support and technical participation, meaning that funding doesn't grant companies the ability to steer technical direction without contributing code. As Executive Director Jim Zemlin describes it, the Linux Foundation acts as "the supporting cast or janitors of open source," handling all the necessary infrastructure, legal, financial, and administrative work so that developers can focus on writing code and building innovative solutions that deliver economic impact impossible for any single organization to achieve alone. 
+
+Website - https://www.ietf.org/

@@ -1,5 +1,5 @@
 baseURL: https://naftiko.github.io/docs/
-title: Naftiko Docs
+title: Naftiko Go-To-Market
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -46,7 +46,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Naftiko Docs
+    title: Naftiko Go-To-Market
     params:
       description: Integrations as Business Capabilities
   # cSpell:disable
