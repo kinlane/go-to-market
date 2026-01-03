@@ -98,22 +98,50 @@ The Naftiko go-to-market focus on stories and conversations focused on the busin
 
 {{% blocks/lead color="dark" %}}
 
-These capabilities, stories, and conversations are a direct output of the market research and signals gathered, which all drives the technology Naftiko invests in and developers, as part of our commercial open-source revenue strategy.
+This work is informed by Naftiko market research, technology, and revenue documentation, all of which is openly available to encourage feedback and contribution regarding what Naftiko should be building, as well as the general state of the commercial open-source software ecosystem.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" type="row" %}}
 
 {{% blocks/feature icon="fab fa-solid fa-magnifying-glass-chart" title="Naftiko Market Research" url="https://congenial-couscous-1e4enqr.pages.github.io/" %}}
-This is the separate website where we manage the market research that is informing this go to market motion over time.
+The documentation for the Naftiko market research, sharing the segments, companies, features, integrations, and other information gathered as part of ongoing market research to inform the Naftiko road map, sharing our perspective of the business and engineering of integration and automation today.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-solid fa-book-open-lines" title="Naftiko Documentation" url="https://psychic-bassoon-z2vjvn4.pages.github.io/" %}}
-This is the documentation site that is informing the product road map, providing a place for marketing and revenue activities to enrich.
+{{% blocks/feature icon="fab fa-solid fa-book-open-lines" title="Naftiko Technology" url="https://psychic-bassoon-z2vjvn4.pages.github.io/" %}}
+The documentation for the technology we are using to develop the Naftiko Framework, Engine, and Fabric, detailing the standards and tooling we are building upon, informing the Naftiko road map while also sharing all of the building blocks we are using and how they all fit together.
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-solid fa-money-bill-trend-up" title="Naftiko Revenue" url="https://turbo-goggles-5l9zlnj.pages.github.io/" %}}
-This is the separate website were we manage the revenue and pilot customer program which informs this go to market work.
+The documentation for how Naftiko is approaching commercial open-source software, being intentional and transparent about the plans we offer to generate revenue for Naftiko, ensuring we are a viable business, while throughfully building upon existing open-source building blocks.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
+
+{{% blocks/lead color="dark" %}}
+
+This documentation is meant to shape and communicate Naftiko commercial open-source strategy as it is being implemented, and we encourage you to tune into the following channels to keep up to date with what is happening in the Naftiko ecosystem and beyond.
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color="white" type="row" %}}
+
+{{% blocks/feature icon="fa-comment-lines" title="LinkedIn" url="https://www.linkedin.com/company/naftiko/" %}}
+Receive the latest updates, news, and join in on the conversations with us via the Naftiko company page on the LinkedIn social network.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-gear-complex-code" title="GitHub" url="https://github.com/naftiko" %}}
+Contribute and fork artifacts and code via the Naftiko GitHub organization to get hands-on with what we are building for the community.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-video-plus" title="Youtube" url="https://www.youtube.com/@Naftiko" %}}
+Tune into the Naftiko Youtube Channel to learn about applying capabilities, using the engine, framework, and fabric as part of your work.
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
+{{% blocks/lead color="dark" %}}
+
+This work is being informed by [Naftiko Signals](https://naftiko.github.io/signals/), gathering the signals that matter across a variety companies and industries--sign up for the [Naftiko Manifest Newsletter](https://naftiko.io/newsletter) to learn more.
+
+{{% /blocks/lead %}}
