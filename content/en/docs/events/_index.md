@@ -1,7 +1,7 @@
 ---
-title: Organizations
-date: 2025-09-19
-description: Naftiko is depends on the work of these organizations when it comes to our open-source core, making the standards they produce important, but also other activities that move forward the open-source ecosystem, central to the Naftiko vision and road map.
-weight: 50
+title: Events
+date: 2026-01-03
+description: These are the conference, meetups, and other events we are tracking on as part of go-to-market, keeping them here for storytelling purposes until a month or two after attending, exhibiting, and speaking, documenting the events we invest in as part of this motion.
+weight: 75
 ---
 

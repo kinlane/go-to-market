@@ -1,14 +1,13 @@
 ---
-title: AI Context Use Case - Naftiko Blog
+title: Naftiko Launch - Naftiko Blog
 description: >-
-  This is blog post on the AI Context use case, focusing on providing Model Context Protocol (MCP) servers on top of common private, public/1st party and 3rd party APIs, as well as local SQL databases, employing a domain-driven, declarative, and governed approach to right-sizing the context windows via MCP while providing integrations for us across AI copilots and agents. 
-date: '2026-01-03'
+  This is a blog post announcing Naftiko in the lead up to APIDays and after the launch of our website, announcing the company, funding, and team behind, providing a snapshot of what we are building and get the conversation started with the ecosystem about what is needed when it comes to API and AI integration.
+date: '2025-12-01'
 toc_hide: true
 ---
 
-
-
 ## Links
 
-- [**GitHub Issue**](https://github.com/naftiko/go-to-market/issues/8)
-- [**Google Doc**]()
+- [**GitHub Issue**](https://github.com/naftiko/go-to-market/issues/17)
+- [**Google Doc**](https://docs.google.com/document/d/1ZURyytVceUChrNh5DjhUuPil-U-68rLSgf1LXyS1EJ4/edit?tab=t.0#heading=h.efdew1rl1urw)
+- [**Naftiko Blog Post**](https://naftiko.io/blog/embrace-your-api-legacy-and-integrate-your-ai-future-using-naftiko)

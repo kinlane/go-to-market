@@ -1,14 +1,14 @@
 ---
-title: AI Context Use Case - Naftiko Blog
+title: Naftiko Signals White Paper
 description: >-
-  This is blog post on the AI Context use case, focusing on providing Model Context Protocol (MCP) servers on top of common private, public/1st party and 3rd party APIs, as well as local SQL databases, employing a domain-driven, declarative, and governed approach to right-sizing the context windows via MCP while providing integrations for us across AI copilots and agents. 
+  This was a white paper to support the Naftiko Signals workshop at APIDays, and provide more content for the website as we work to launch the company, helping share why signals from enterprise systems can help us understand what is happening, and can be use to steer any system in the desired direciton and achieve the business outcomes required.
 date: '2026-01-03'
 toc_hide: true
 ---
 
 
-
 ## Links
 
 - [**GitHub Issue**](https://github.com/naftiko/go-to-market/issues/8)
-- [**Google Doc**]()
+- [**Google Doc**](https://docs.google.com/document/d/1-hhd0em9tU3_X6xhOc77iPJODThYchXTc6XYBraa18A/edit?tab=t.0#heading=h.guvqsl6qo4eh)
+- [**White Paper**](https://naftiko.io/downloads/turn-ai-api-saas-sprawl-into-clear-signals)

@@ -1,7 +1,7 @@
 ---
 title: Risk - Naftiko Blog
 description: >-
-  This is a business outcomes blog post focused on managing risk when it comes to integrations and automation, helping demonstrate how a capabilities-driven approach can help with security, prviacy, compliance, and other common approaches to managing risk across enterprise operations.
+  This is a business outcomes blog post focused on managing risk when it comes to integrations and automation, helping demonstrate how a capabilities-driven approach can help with security, privacy, compliance, and other common approaches to managing risk across enterprise operations, from the dimensions business care about.
 date: '2026-01-03'
 toc_hide: true
 ---

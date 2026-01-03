@@ -7,7 +7,7 @@ menu: {main: {weight: 40}}
 {{% blocks/lead color="dark" %}}
 
 ## Business
-These are the current 3rd-party services we are supporting in the business domain, helping power the creation of business, marketing, sales, support, and other business focused capabilities.
+These are the current 3rd-party services we are supporting in the business domain, and using in capabilities, which means we will be tuning into the marketing and evangelism surrounding each of these services and weaving into our own storytelling and conversations.
 
 {{% /blocks/lead %}}
 
@@ -43,8 +43,7 @@ users, and playlists{{% /blocks/feature %}}
 {{% blocks/lead color="dark" %}}
 
 ## Operations
-These are the current 3rd-party services we are supporting in the operations domain, helping power the creation of platform, operational, and other engineering capabilities..
-
+These are the current 3rd-party services we are supporting in the operational domain, and using in capabilities, which means we will be tuning into the marketing and evangelism surrounding each of these services and weaving into our own storytelling and conversations.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" type="row" %}}
