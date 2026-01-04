@@ -1,2 +1,2 @@
-# Naftiko Docs
-This is the documentation site for Naftiko. It is using the base [Docsy](https://www.docsy.dev/) site, which we can rework to reflect what Naftiko will be offering.
+# Naftiko Go-To-Market
+This is the repository for the Naftiko go-to-market documentation, sharing the plan and process behind the storytelling and conversations we are having in the community, making it something anyone can learn from and get involved with as we are building.
