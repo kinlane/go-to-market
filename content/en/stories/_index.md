@@ -4,7 +4,7 @@ linkTitle: Stories
 menu: {main: {weight: 20}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Capability Stories
 We are regularly telling stories around capabilities, providing a regular stream of content focused on and around capabilities, helping shine a light on the central component of integration and automation.
@@ -27,7 +27,7 @@ This is blog post being written and published by The New Stack on capabilities. 
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Use Case Stories
 We are regularly telling stories around capabilities, providing a regular stream of content focused on and around capabilities, helping shine a light on the central component of integration and automation.
@@ -59,7 +59,7 @@ This is blog post on the  SQL Data Access use case, focusing on consistently unl
 {{% /blocks/section %}}
 
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Business Outcomes Stories
 There should be ahealthy number of stories about the business outcomes when you take a capabilities-driven approach to integrations and automation, focusing on the cost, velocity, and risk, while showcasing innovation.
@@ -86,7 +86,7 @@ This is blog post focus on innovation, helping shine a light on how managing cos
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Nafitko Signals Stories
 We should be telling regular stories about the Naftiko Signals program including announcing it and ongoing research data and results being published.

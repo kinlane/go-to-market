@@ -4,7 +4,7 @@ linkTitle: Channels
 menu: {main: {weight: 50}}
 ---
  
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 Currently there are three main channels in which the Naftiko go-to-market focuses, with other supporting channels supporting along the way, helping keep things focused on a regular drumbeat of activity across these locations.
 
@@ -26,7 +26,7 @@ We are using Medium as a secondary blog network, while also using it for informa
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 <h1>Social Media</h1>
 We are staying focused on two social media channels right now until we get our footing underneath us as part of our go-to-market, syndicating content to both locations, but also leveraging the network effect that exists on these two platforms.
 {{% /blocks/lead %}}
@@ -43,7 +43,7 @@ We are building our profile on LinkedIn, spending time to follow people who fit 
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 <h1>News</h1>
 We are leveraging a handful of news sites to help gather information initially, but then also publish content there when ready, tapping into existing ecosystems when it comes to news and information dedicated to the technology sector.
 {{% /blocks/lead %}}
@@ -69,7 +69,7 @@ We are currently using Dev.To for information gathering, finding relevant source
 {{% /blocks/section %}}
 
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 <h1>Media</h1>
 All video when produced are published to Youtube, with podcast audio also syndicated to Apple and Spotify podcasts to tap into the network effect that exists on those platform--we will expand to other platforms as we get established.
 {{% /blocks/lead %}}
@@ -90,7 +90,7 @@ We syndicate audio podcasts to Spotify podcasts to take advantage of the network
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 <h1>Analysts</h1>
 We aren't actively reporting into these ecosystems, but we are tuned into the Gartner and G2 analyst realsm, engaging with analysts on LinkedIn, and actively sharing their information, while using them to inform our market research.
 {{% /blocks/lead %}}

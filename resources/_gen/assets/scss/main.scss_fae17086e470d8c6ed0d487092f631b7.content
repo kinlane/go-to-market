@@ -45,7 +45,7 @@ Add styles or override variables from the theme here.
   --bs-warning: #ed6a5a;
   --bs-danger: #ed6a5a;
   --bs-light: #d3f3ee;
-  --bs-dark: #403f4c;
+  --bs-dark: #001747;
   --bs-primary-rgb: 48, 48, 48;
   --bs-secondary-rgb: 97, 27, 184;
   --bs-success-rgb: 55, 114, 255;
@@ -1614,7 +1614,7 @@ progress {
 
 .table-dark {
   --bs-table-color: #fff;
-  --bs-table-bg: #403f4c;
+  --bs-table-bg: #001747;
   --bs-table-border-color: #666570;
   --bs-table-striped-bg: #4a4955;
   --bs-table-striped-color: #fff;
@@ -2518,8 +2518,8 @@ div.drawio .input-group-sm > button,
 
 .btn-dark {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #403f4c;
-  --bs-btn-border-color: #403f4c;
+  --bs-btn-bg: #001747;
+  --bs-btn-border-color: #001747;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #5d5c67;
   --bs-btn-hover-border-color: #53525e;
@@ -2529,8 +2529,8 @@ div.drawio .input-group-sm > button,
   --bs-btn-active-border-color: #53525e;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #403f4c;
-  --bs-btn-disabled-border-color: #403f4c; }
+  --bs-btn-disabled-bg: #001747;
+  --bs-btn-disabled-border-color: #001747; }
 
 .btn-outline-primary, div.drawio button {
   --bs-btn-color: #303030;
@@ -2645,19 +2645,19 @@ div.drawio .input-group-sm > button,
   --bs-gradient: none; }
 
 .btn-outline-dark {
-  --bs-btn-color: #403f4c;
-  --bs-btn-border-color: #403f4c;
+  --bs-btn-color: #001747;
+  --bs-btn-border-color: #001747;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #403f4c;
-  --bs-btn-hover-border-color: #403f4c;
+  --bs-btn-hover-bg: #001747;
+  --bs-btn-hover-border-color: #001747;
   --bs-btn-focus-shadow-rgb: 64, 63, 76;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #403f4c;
-  --bs-btn-active-border-color: #403f4c;
+  --bs-btn-active-bg: #001747;
+  --bs-btn-active-border-color: #001747;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #403f4c;
+  --bs-btn-disabled-color: #001747;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #403f4c;
+  --bs-btn-disabled-border-color: #001747;
   --bs-gradient: none; }
 
 .btn-link {
@@ -17548,7 +17548,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .-bg-dark {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
 
 .-bg-dark p:not(.p-initial) > a {
   color: #bdd7fe; }
@@ -17556,7 +17556,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
     color: #094db1; }
 
 .-text-dark {
-  color: #403f4c; }
+  color: #001747; }
 
 .-bg-100 {
   color: #000;
@@ -17668,7 +17668,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .-bg-0 {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
 
 .-bg-0 p:not(.p-initial) > a {
   color: #bdd7fe; }
@@ -17676,7 +17676,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
     color: #094db1; }
 
 .-text-0 {
-  color: #403f4c; }
+  color: #001747; }
 
 .-bg-1 {
   color: #fff;
@@ -17764,7 +17764,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .-bg-8 {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
 
 .-bg-8 p:not(.p-initial) > a {
   color: #bdd7fe; }
@@ -17772,7 +17772,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
     color: #094db1; }
 
 .-text-8 {
-  color: #403f4c; }
+  color: #001747; }
 
 .-bg-9 {
   color: #000;
@@ -17854,14 +17854,14 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .td-box--0 {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
   .td-box--0 .td-arrow-down::before {
     left: 50%;
     margin-left: -30px;
     bottom: -25px;
     border-style: solid;
     border-width: 25px 30px 0 30px;
-    border-color: #403f4c transparent transparent transparent;
+    border-color: #001747 transparent transparent transparent;
     z-index: 3;
     position: absolute;
     content: ""; }
@@ -18006,14 +18006,14 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .td-box--8 {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
   .td-box--8 .td-arrow-down::before {
     left: 50%;
     margin-left: -30px;
     bottom: -25px;
     border-style: solid;
     border-width: 25px 30px 0 30px;
-    border-color: #403f4c transparent transparent transparent;
+    border-color: #001747 transparent transparent transparent;
     z-index: 3;
     position: absolute;
     content: ""; }
@@ -18500,14 +18500,14 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
 
 .td-box--dark, .td-footer {
   color: #fff;
-  background-color: #403f4c; }
+  background-color: #001747; }
   .td-box--dark .td-arrow-down::before, .td-footer .td-arrow-down::before {
     left: 50%;
     margin-left: -30px;
     bottom: -25px;
     border-style: solid;
     border-width: 25px 30px 0 30px;
-    border-color: #403f4c transparent transparent transparent;
+    border-color: #001747 transparent transparent transparent;
     z-index: 3;
     position: absolute;
     content: ""; }
@@ -18783,7 +18783,7 @@ https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
   .td-navbar-cover {
     background: transparent !important; }
     .td-navbar-cover .nav-link {
-      text-shadow: 1px 1px 2px #403f4c; } }
+      text-shadow: 1px 1px 2px #001747; } }
 
 .td-navbar-cover.navbar-bg-onscroll .nav-link {
   text-shadow: none; }
@@ -19137,10 +19137,10 @@ nav.foldable-nav .with-child ul {
       color: #d3f3ee; }
   .alert-dark, .pageinfo-dark {
     border-style: solid;
-    border-color: #403f4c;
+    border-color: #001747;
     border-width: 0 0 0 4px; }
     .alert-dark .alert-heading, .pageinfo-dark .alert-heading {
-      color: #403f4c; }
+      color: #001747; }
 
 .td-content {
   order: 1; }
@@ -19500,7 +19500,7 @@ h6:hover > .td-heading-self-link, .h6:hover > .td-heading-self-link {
     background: none;
     color: #0d6efd; }
     .taxo-text-tags .taxonomy-term:hover .taxonomy-count {
-      color: #403f4c !important; }
+      color: #001747 !important; }
   .taxo-text-tags .taxonomy-term:hover::before {
     background: none; }
 
@@ -19569,7 +19569,7 @@ h6:hover > .td-heading-self-link, .h6:hover > .td-heading-self-link {
     background: none;
     color: #0d6efd; }
     .taxo-fruits .taxonomy-term:hover .taxonomy-count {
-      color: #403f4c !important; }
+      color: #001747 !important; }
   .taxo-fruits .taxonomy-term:hover::before {
     background: none;
     text-shadow: 0 0 3px #212529; }
@@ -19712,7 +19712,7 @@ div.drawioframe {
     border-color: #d3f3ee; }
   .tab-body-dark {
     border-style: solid;
-    border-color: #403f4c; }
+    border-color: #001747; }
 
 .td-card.card .highlight {
   border: none;

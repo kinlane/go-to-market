@@ -4,7 +4,7 @@ linkTitle: Services
 menu: {main: {weight: 40}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Business
 These are the current 3rd-party services we are supporting in the business domain, and using in capabilities, which means we will be tuning into the marketing and evangelism surrounding each of these services and weaving into our own storytelling and conversations.
@@ -40,7 +40,7 @@ users, and playlists{{% /blocks/feature %}}
 {{% blocks/feature icon="fab fa-chart-network" title="Zoom" url="/docs/services/zoom" %}}Zoom is a video conferencing platform that allows users to connect with others through virtual meetings, webinars, and chat features{{% /blocks/feature %}}
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Operations
 These are the current 3rd-party services we are supporting in the operational domain, and using in capabilities, which means we will be tuning into the marketing and evangelism surrounding each of these services and weaving into our own storytelling and conversations.

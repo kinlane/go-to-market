@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 250}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 This is a documentation site for the go-to-market motion for building the Naftiko Framework, Engine, and Fabric, helping guide the Naftiko engineering function, while also engaging with the ecosystem about what technologies matter when it comes to integration and automation.
 
@@ -28,7 +28,7 @@ This is a documentation site for the go-to-market motion for building the Naftik
 
 {{% /blocks/lead %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 This Naftiko go-t-market documentation works in concert with addtional Naftiko market research, technology, and revenue documentation, building Naftiko out in the open as part of a wider conversation with the business integration and automation ecosystem.
 

@@ -4,7 +4,7 @@ linkTitle: Organizations
 menu: {main: {weight: 60}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Standards
 Naftiko is build on existing standards, leveraging the Internet, the Web, and the wealth of standards that exist for defining our data, APIs, and much more. This page outlines all of the standards that Naftiko is building upon, providing an index of the moving parts of how we integrate and automate across the systems we depend upon. 
@@ -27,7 +27,7 @@ The World Wide Web Consortium (W3C) develops open web standards—such as HTML, 
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Open Source Foundations
 The Linux and Apache Foundations are an umbrella for many different open-source organizations and projects, and we will continue to layer these organizations in as part of our go-to-market, tuning into their ecosystem, and sydnicating and incorporating into what we are building.

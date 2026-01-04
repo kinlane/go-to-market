@@ -16,7 +16,7 @@ This is a documentation site for managing the go-to-market effort for Naftiko--o
 
 {{% /blocks/lead %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 Currently there are three main channels in which the Naftiko go-to-market focuses, with other supporting channels supporting along the way, helping keep things focused on a regular drumbeat of activity across these locations.
 
@@ -38,7 +38,7 @@ Naftiko GitHub is the primary technical doorway to what Naftiko is building, inc
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 Naftiko go-to-market centers around stroytelling around what is possible using capabilities, building on the value provided by or service partners, then delivering what our design partners and customers will need.
 
@@ -60,7 +60,7 @@ Conversations with domain experts, design and service paratners play a central r
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 <h1>Use Cases</h1>
 These are the top three use cases our go-to-market function focuses upon, with other use cases being developed and invested in regularly, which may or may not rise to the top of the narrative here as part of the go-to-market motion.
@@ -84,7 +84,7 @@ This use case is concerned with encouraging the discoverability and reuse of exi
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 The Naftiko go-to-market focus on stories and conversations focused on the business use cases that matter, iterating and refining on capabilities, as well as use cases along the way to expand service and design partners along the way.
 
@@ -96,7 +96,7 @@ The Naftiko go-to-market focus on stories and conversations focused on the busin
 
 {{% /blocks/lead %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 This work is informed by Naftiko market research, technology, and revenue documentation, all of which is openly available to encourage feedback and contribution regarding what Naftiko should be building, as well as the general state of the commercial open-source software ecosystem.
 
@@ -118,7 +118,7 @@ The documentation for how Naftiko is approaching commercial open-source software
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 This documentation is meant to shape and communicate Naftiko commercial open-source strategy as it is being implemented, and we encourage you to tune into the following channels to keep up to date with what is happening in the Naftiko ecosystem and beyond.
 
@@ -140,7 +140,7 @@ Tune into the Naftiko Youtube Channel to learn about applying capabilities, usin
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 This work is being informed by [Naftiko Signals](https://naftiko.github.io/signals/), gathering the signals that matter across a variety companies and industries--sign up for the [Naftiko Manifest Newsletter](https://naftiko.io/newsletter) to learn more.
 

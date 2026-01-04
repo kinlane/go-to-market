@@ -4,7 +4,7 @@ linkTitle: Standards
 menu: {main: {weight: 70}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## HTTP Standards
 The HTTP (Hypertext Transfer Protocol) standard is an application-layer protocol that defines how messages are formatted and transmitted between web browsers and servers, forming the foundation of data communication on the World Wide Web.
@@ -27,7 +27,7 @@ HTTP/3 is the latest HTTP version that runs over QUIC (on UDP), providing multip
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Schema Formats
 JSON Schema is central to everything here, playing a central role in defining schema, but also validating all the other specifications that are listed on this page.
@@ -46,7 +46,7 @@ JSON Schema is a vocabulary for annotating and validating JSON documents. It def
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Data Formats
 Data formats are standardized ways of encoding and structuring information so software can store, transmit, and interpret it consistently as text (CSV, JSON, XML, YAML), using schema for validation.
@@ -81,7 +81,7 @@ Markdown is a lightweight markup language that uses plain text formatting syntax
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Binary Data Formats
 Binary data formats encode information as compact, machine-readable byte sequences—often with schemas for type safety and fast serialization—to reduce size and speed I/O (e.g., Protocol Buffers, Avro, MessagePack, CBOR, Parquet, ORC).
@@ -104,7 +104,7 @@ Protocol Buffers (protobuf) are Google’s language-neutral, platform-neutral wa
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Data Connectors
 Database connectors are drivers/adapters that let applications talk to databases by implementing the database’s wire protocol or a standardized API, handling auth, connections, type mapping, queries, and results.
@@ -125,7 +125,7 @@ ODBC (Open Database Connectivity) is a standard API specification that provides 
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## OpenAPI Standards
 OpenAPI is the leading standard for describing the surface area of HTTP APIs, expanding to provide overlays to artifacts, as well as workflows using the Arazzo specification.
@@ -147,7 +147,7 @@ The Arazzo Specification is a community-driven standard for defining a programmi
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## AsyncAPI Standard
 AsyncAPI emerged as a sister specification to OpenAPI, focusing on event-driven APIs, providing the ability to describe the surface area of Kafka, Websockets, and other event-driven approaches to doing APIs.
@@ -167,7 +167,7 @@ AsyncAPI is an open-source, protocol-agnostic specification for describing event
 {{% /blocks/section %}}
 
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Governance Policies
 We use Spectral, Vacuum, and Open Policy Agents (OPA) to govern all of the schema and APIs in use as part of delivering capabilities reliably via Naftiko Engines.
@@ -191,7 +191,7 @@ OPA (Open Policy Agent) is a general-purpose policy engine that unifies policy e
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Artificial Intelligence Standards
 There are many new standards emerging to support AI integration, and these are the formats we are currently supporting, with additional ones being evaluated as part of market research and being added regularly.
@@ -212,7 +212,7 @@ The Agent2Agent (A2A) Protocol is an open standard for communication and interop
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## API Client Standards
 Multiple derivatives of API standards have evolved over the years to support API clients and automation, providing for competing formats that augment and compliment existing API standards.
@@ -235,7 +235,7 @@ The Agent2Agent (A2A) Protocol is an open standard for communication and interop
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## API Client Environment Standards
 Augmenting the API client standards above, each of the providers have their own environment standard for storing of key / value pairs that can be used during testing and automation.
@@ -256,7 +256,7 @@ A Bruno environment is a configurable set of key–value variables that allows y
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Authentication Standards
 While API keys are dominant pattern, there are two authentication standards at the top of the list when building Naftiko, which help secure the data and resources being made available.
@@ -277,7 +277,7 @@ A JSON Web Token (JWT) enables secure transmission of information between a clie
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Semantic Standards
 Semantics are needed to enrich data and the interfaces used to access the data, with Schema.org leading the way defining the vocabulary, and JSON-LD used to augment existing artifacts with that vocablary.
@@ -298,7 +298,7 @@ JSON-LD (JavaScript Object Notation for Linking Data) is a W3C standard for expr
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Discovery Standards
 We are using APIs.json and API Commons to describe the technical and business details of the services we are making available as part of the development of capabilities.
@@ -319,7 +319,7 @@ API Commons is a collection of open-source building blocks for API operations. I
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 ## Examples Standard
 OpenAPI and AsyncAPI both provide the ability to include examples of API requests, responses, and messages, but Microcks has begun to develop a standard dedicated to mocking and testing examples.

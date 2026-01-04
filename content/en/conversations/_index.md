@@ -4,7 +4,7 @@ linkTitle: Conversations
 menu: {main: {weight: 30}}
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 <h1>Conversations</h1>
 These are the conversations we have in the queue, which will be chopped up and used for social media, podcasts, shorts, and other video or audio bits that we use across the go-to-market motion.
@@ -45,7 +45,7 @@ Sat down with Sam Newman to talk microservices, and learn more about what he is 
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="primary" %}}
 
 <h1>Podcast Episodes</h1>
 These are the Naftiko Capabilities podcast episode in the queue, taking the conversations we have above and organizing them into 15minute episodes on different topics and themes.
