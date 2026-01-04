@@ -1,12 +1,12 @@
 ---
 title: About Naftiko Go-To-Market Documentation
 linkTitle: About
-menu: {main: {weight: 200}}
+menu: {main: {weight: 10}}
 ---
 
 {{% blocks/lead color="dark" %}}
 
-This is a documentation site for the go-to-market motion for Naftiko, operating the marketing for the commercial open-source offering out in the open, helping make our work collaborative and easy to reference in storytelling and conversations, being transparent in our work. 
+This is a documentation site for the go-to-market otion for building the Naftiko Framework, Engine, and Fabric, helping guide the Naftiko engineering function, while also engaging with the ecosystem about what technologies matter when it comes to integration and automation.
 
 {{% /blocks/lead %}}
 
@@ -30,6 +30,6 @@ This is a documentation site for the go-to-market motion for Naftiko, operating 
 
 {{% blocks/lead color="dark" %}}
 
-This Naftiko go-to-market documentation works in concert with addtional Naftiko technology, market research, Naftiko Signals, and revenue documentation, building Naftiko out in the open as part of a wider conversation with the business integration and automation ecosystem.
+This Naftiko go-t-market documentation works in concert with addtional Naftiko market research, technology, and revenue documentation, building Naftiko out in the open as part of a wider conversation with the business integration and automation ecosystem.
 
 {{% /blocks/lead %}}
