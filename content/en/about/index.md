@@ -1,7 +1,7 @@
 ---
 title: About Naftiko Go-To-Market Documentation
 linkTitle: About
-menu: {main: {weight: 10}}
+menu: {main: {weight: 250}}
 ---
 
 {{% blocks/lead color="dark" %}}
