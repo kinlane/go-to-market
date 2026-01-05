@@ -108,11 +108,11 @@ This work is informed by Naftiko market research, technology, and revenue docume
 The documentation for the Naftiko market research, sharing the segments, companies, features, integrations, and other information gathered as part of ongoing market research to inform the Naftiko road map, sharing our perspective of the business and engineering of integration and automation today.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-solid fa-book-open-lines" title="Naftiko Technology" url="https://psychic-bassoon-z2vjvn4.pages.github.io/" %}}
+{{% blocks/feature icon="fab fa-solid fa-book-open-lines" title="Naftiko Technology" url="https://naftiko.github.io/technology/" %}}
 The documentation for the technology we are using to develop the Naftiko Framework, Engine, and Fabric, detailing the standards and tooling we are building upon, informing the Naftiko road map while also sharing all of the building blocks we are using and how they all fit together.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-solid fa-money-bill-trend-up" title="Naftiko Revenue" url="https://turbo-goggles-5l9zlnj.pages.github.io/" %}}
+{{% blocks/feature icon="fab fa-solid fa-money-bill-trend-up" title="Naftiko Revenue" url="https://naftiko.github.io/revenue/" %}}
 The documentation for how Naftiko is approaching commercial open-source software, being intentional and transparent about the plans we offer to generate revenue for Naftiko, ensuring we are a viable business, while throughfully building upon existing open-source building blocks.
 {{% /blocks/feature %}}
 
