@@ -104,7 +104,7 @@ This work is informed by Naftiko market research, technology, and revenue docume
 
 {{% blocks/section color="white" type="row" %}}
 
-{{% blocks/feature icon="fab fa-solid fa-magnifying-glass-chart" title="Naftiko Market Research" url="https://crispy-adventure-o72l884.pages.github.io/" %}}
+{{% blocks/feature icon="fab fa-solid fa-magnifying-glass-chart" title="Naftiko Market Research" url="https://naftiko.github.io/market-research" %}}
 The documentation for the Naftiko market research, sharing the segments, companies, features, integrations, and other information gathered as part of ongoing market research to inform the Naftiko road map, sharing our perspective of the business and engineering of integration and automation today.
 {{% /blocks/feature %}}
 
