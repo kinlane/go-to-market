@@ -12,11 +12,11 @@ These are the capabilities we are currently developing out in the open to suppor
 
 {{% blocks/section color="white" type="row" %}}
 
-{{% blocks/feature icon="fab fa-chart-network" title="API Reusability" url="/technology/docs/capabilities/api-reusability" %}}
+{{% blocks/feature icon="fab fa-chart-network" title="API Reusability" url="/go-to-market/docs/capabilities/api-reusability" %}}
 Prototyping an API reusability capability to help drive conversation with different stakeholders when it comes to reusing APIs. We are still understanding what exactly this means, and this capability is driving that conversation out in the open on GitHub, our blog, and social media.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-puzzle-piece-simple" title="Manage Events" url="/technology/docs/capabilities/manage-events" %}}
+{{% blocks/feature icon="fab fa-puzzle-piece-simple" title="Manage Events" url="/go-to-market/docs/capabilities/manage-events" %}}
 Prototyping an events management capability to assist in conversations we are having, but also explore how Naftiko could manage events and meetups we are planning on producing, helping develop a capability out in the open as we are working to build the product, iterating on capabilities we can use.
 {{% /blocks/feature %}}
 

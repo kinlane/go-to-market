@@ -46,15 +46,15 @@ Naftiko go-to-market centers around stroytelling around what is possible using c
 
 {{% blocks/section color="white" type="row" %}}
 
-{{% blocks/feature icon="fab fa-spell-check" title="Capabilities" url="/technology/docs/capabilities/" %}}
+{{% blocks/feature icon="fab fa-spell-check" title="Capabilities" url="/go-to-market/docs/capabilities/" %}}
 These are the capabilities being currently developed to support conversations with service and design partners, but also to manage Naftiko operations, including what is needed for this go-to-market motion.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-book" title="Stories" url="/technology/docs/stories/" %}}
+{{% blocks/feature icon="fab fa-book" title="Stories" url="/go-to-market/docs/stories/" %}}
 Sharing stories on the Naftiko and API Evangelist blogs, these working documentation sites, and other parnter or ecosystem blogs and news sites is the center of the Naftiko go-to-market motion each week.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-podcast" title="Conversations" url="/technology/docs/conversations/" %}}
+{{% blocks/feature icon="fab fa-podcast" title="Conversations" url="/go-to-market/docs/conversations/" %}}
 Conversations with domain experts, design and service paratners play a central role in helping shape the stories we tell, while also informing our roadmap as the flywheel for this go-to-market motion continues to spin.
 {{% /blocks/feature %}}
 
@@ -69,15 +69,15 @@ These are the top three use cases our go-to-market function focuses upon, with o
 
 {{% blocks/section color="white" type="row" %}}
 
-{{% blocks/feature icon="fab fa-users-rectangle" title="AI Context" url="/technology/docs/use-cases/ai-context/" %}}
+{{% blocks/feature icon="fab fa-users-rectangle" title="AI Context" url="/go-to-market/docs/use-cases/ai-context/" %}}
 This use case focuses on providing Model Context Protocol (MCP) servers on top of common private, public/1st party and 3rd party APIs, as well as local SQL databases, employing a domain-driven, declarative, and governed approach to right-sizing the context windows via MCP while providing integrations for us across AI copilots and agents. 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-users-rectangle" title="API Reusability" url="/technology/docs/use-cases/api-reusability/" %}}
+{{% blocks/feature icon="fab fa-users-rectangle" title="API Reusability" url="/go-to-market/docs/use-cases/api-reusability/" %}}
 This use case is concerned with encouraging the discoverability and reuse of existing APIs, leveraging existing API infrastructure to quantify what API, schema, and tooling reuse looks like, and incentivizing reuse of APIs and schema across the software development lifecycle—reducing API sprawl and hardening the APIs that already exist.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-users-rectangle" title="AI Orchestration" url="/technology/docs/use-cases/ai-orchestration/" %}}
+{{% blocks/feature icon="fab fa-users-rectangle" title="AI Orchestration" url="/go-to-market/docs/use-cases/ai-orchestration/" %}}
   This use case provides the data, skills, and capabilities that artificial intelligence agents used internally can use to automate and orchestrate tasks while discovering and negotiating with other agents to accomplish specific goals. This use case employs the open-source Agent-2-Agent specification to securely and confidently enable agentic activity across operations.
 
 {{% /blocks/feature %}}
