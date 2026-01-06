@@ -1,15 +1,27 @@
 ---
 title: Nordic APIs Live Cast
-description: We sponsored and attended APIDays in Paris, launching Naftiko as a company there. Our booth was a success, with three days of non-stop conversation and engagement with the community.
-date: 2025-10-28
+description: I am doing a live cast with Nordic APIs in January on API Standards for AI Agents, joining Lorna Mitchell, Kevin Swiber, and Bill Doerrfeld to discuss how APIs drive the agentic realm.
+date: 2026-01-06
 weight: 6
 toc_hide: true
 ---
 
 {{% pageinfo %}}
-Lauched Naftiko at the flagship event for APIDays in Paris.
+API Standards for AI Agents
 {{% /pageinfo %}}
 
-APIDays was great. Definitely the place to launch Naftiko. The conversation were leaning heavy in the vendor direction, but still was a great time overall. The conversations were excellent, with lead generation being just OK. But, without a product yet, this is fine, as we were just looking to enter the market, and get the conversation going.
+Learn why API technical standards drive agentic success.
+Join us for a LiveCast on API standards and AI agents, exploring how core API and open web standards enable accurate, reliable, and safe agent behavior.
 
-**Website:** https://www.apidays.global/events/paris
+AI agents are getting arms and legs with APIs. But they need a technical manifest to fully understand their capabilities. This is where core web and API standards shine, acting as rich semantics and metadata to both inform agents and optimize their context windows.
+
+In this hour-long LiveCast, we’ll bring together API experts with experience pioneering standards for entire industries as well as individual enterprise-level API and API governance strategies. We’ll consider how to think about technical API standards (and how they can be combined) as you construct pathways to connect with AI agents and the benefits of a standards-based approach.
+
+Our speakers will explore core technical standards that are helpful to position APIs for AI agents. These include OpenAPI, new OpenAPI add-ons like Arazzo and Overlays specifications, REST and link relations using hypermedia (HATEOAS), IETF standards, HTTP methods and headers, JSON-LD, MCP, and others.
+
+The LiveCast will feature Kin Lane, the API Evangelist and Chief Community Officer (CCO) at Naftiko, and Lorna Mitchell, API Architect at TM Forum and Technical Steering Committee Member at OpenAPI Initiative (OAI). Bill Doerrfeld, tech journalist and Editor-in-Chief at Nordic APIs, will moderate the discussion and audience Q&A. The panel discussion will be recorded over Zoom and published to YouTube shortly after the event.
+
+About Nordic APIs LiveCasts
+Nordic APIs LiveCasts are free to attend through Zoom registration. Attendees are welcome to ask questions in real time. We’ll post the recorded session to YouTube shortly after the event.
+
+**Website:** https://nordicapis.com/events/api-standards-for-ai-agents/

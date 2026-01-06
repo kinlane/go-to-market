@@ -5,3 +5,10 @@ description: LinkedIn provides the primary business profile for our go-to-market
 weight: 50
 toc_hide: true
 ---
+
+
+## Groups
+We have two groups that we have branded and maintain:
+
+- [API & Web Services Professionals](https://www.linkedin.com/groups/2637634/) (4,896 members)
+- [REST APIs](https://www.linkedin.com/groups/4303404/) (1,747 members)
