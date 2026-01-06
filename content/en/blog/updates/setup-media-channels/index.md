@@ -7,7 +7,7 @@ description: >
 author: Kin Lane ([@kinlane](https://github.com/kinlane))
 ---
 
-I spent a couple of hours setting up the minimum viable channels needed to support the Naftiko Podcast out of the gate. It was interesting to see the difference in user experience between YouTube, Apple, and Spotify. YouTube is definitely the most advanced. I like the Apple one because it is 100% configured by an RSS feed for the podcast, which has it's ups and downs. Spotify was by far the worst experience, with the interface spinning wheel never stopping and every other API call failing behind the scenes.
+I spent a couple of hours setting up the minimum viable channels needed to support the [Naftiko Podcast](https://naftiko.io/blog/welcome-to-the-naftiko-capabilities-podcast) out of the gate. It was interesting to see the difference in user experience between YouTube, Apple, and Spotify. YouTube is definitely the most advanced. I like the Apple one because it is 100% configured by an RSS feed for the podcast, which has it's ups and downs. Spotify was by far the worst experience, with the interface spinning wheel never stopping and every other API call failing behind the scenes.
 
 It will be interesting to stand up a Naftiko capability to manage our podcast across just these three channels. I manage the RSS feed used to power apple via GitHub, but both YouTube and Spotify has an API, but as with any API the devil will be in the details. Spotify is cumbersome to manage, so I look forward to automating. Apple will be the easiest to automate because it is 100% YAML on GitHub, served up as an RSS feed to Apple.
 
