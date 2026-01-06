@@ -3,24 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/docs/docs/overview/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/standards/openapi/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/standards/openapi-overlays/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/standards/arazzo/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/standards/asyncapi/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/events/nordic-apis-livecast-january-2026/</loc>
+    <lastmod>2026-01-06T15:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/events/kubecon/</loc>
+    <lastmod>2026-01-06T09:43:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-13-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-15-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-20-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-22-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-26-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-29-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-06-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2026-01-08-naftiko-capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/glossary/domain/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-11-sam-newman/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-11-simon-wardley/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/docs/glossary/ai-integration/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/events/apidays/</loc>
+    <lastmod>2026-01-05T16:35:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-10-christian-posta/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-10-david-boyne/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-10-kevin-swiber/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-10-mike-amundsen/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/glossary/agentic/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
@@ -54,6 +106,9 @@
   </url><url>
     <loc>http://localhost:1313/docs/docs/glossary/compliance/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/2025-10-david-biesack/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/glossary/costs/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
@@ -154,227 +209,305 @@
     <loc>http://localhost:1313/docs/docs/glossary/agents/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/postman-collections/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/postman-environments/</loc>
-    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/bruno-collection/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/bruno-environment/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/open-collection/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/grpc/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/json-rpc/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/model-context-protocol/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/parquet/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/avro/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/agent2agent/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/docs/stories-archive/ai-context-use-case-naftiko-blog-post/</loc>
+    <lastmod>2026-01-05T17:39:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/docs/services/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/capabilities/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/channels/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/conversations-archive/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/conversations/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/events/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/use-cases/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/json-schema/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/protocol-buffers/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/schema-org/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/json-ld/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/spectral/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/vacuum/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/open-policy-agent/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/csv/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/html/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/jdbc/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/json/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/markdown/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/odbc/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/yaml/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/xml/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/oauth-20/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/jwt/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/glossary/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/http/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/http-20/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/cncf/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/http-30/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/iana/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/ietf/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/linux-foundation/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/organizations/w3c/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/apis-json/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/api-commons/</loc>
-    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/microcks-examples/</loc>
-    <lastmod>2025-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/standards/vcard-ontology/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/avalara-developer-experience-review-api-evangelist-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/capabilities-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/engine-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/fabric-blog-post-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-launch-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-launch-press-release/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-signals-white-paper/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories/ai-context-use-case-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/docs/stories/ai-orchestration-use-case-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/docs/standards/postman-collections/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/api-reusability-use-case-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/postman-environments/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories/ai-orchestration-use-case-naftiko-blog-post/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/bruno-collection/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/bruno-environment/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/open-collection/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/capabilities/api-reusability/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/capabilities/manage-events/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/capabilities/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/grpc/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/json-rpc/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/use-cases/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/model-context-protocol/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/parquet/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/avro/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/agent2agent/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/services/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/spotify/</loc>
+    <lastmod>2026-01-06T16:19:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/youtube/</loc>
+    <lastmod>2026-01-06T16:19:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/api-evangelist/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/apple-podcasts/</loc>
+    <lastmod>2026-01-06T16:19:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/bluesky/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/conversations-archive/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/crunchbase/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/daily-dev/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/dev-to/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/discord/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/dockerhub/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/ein-presswire/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/g2/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/gartner/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/github/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/hacker-news/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/linkedin/</loc>
+    <lastmod>2026-01-06T15:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/medium/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/naftiko-blog/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/reddit/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/slack/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/twitch/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/visual-studio-marketplace/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/json-schema/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/protocol-buffers/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/schema-org/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/json-ld/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/channels/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/spectral/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/vacuum/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/open-policy-agent/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/csv/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/html/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/jdbc/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/json/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/markdown/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/odbc/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/yaml/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/xml/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/events/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/oauth-20/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/jwt/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/glossary/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/http/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/http-20/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/apache-foundation/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/cncf/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/http-30/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/iana/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/ietf/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/linux-foundation/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/organizations/w3c/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/apis-json/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/api-commons/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/microcks-examples/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/standards/vcard-ontology/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/blog/2026/01/06/hello-community/</loc>
+    <lastmod>2026-01-06T15:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/blog/2026/01/06/setting-up-youtube-apple-and-spotify-podcasts-for-naftiko-capabilities/</loc>
+    <lastmod>2026-01-06T16:19:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/avalara-developer-experience-review-api-evangelist-blog-post/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/capabilities-api-evangelist-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/capabilities-the-new-stack-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/capabilities-podcast-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T09:43:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/cost-blog-post-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/data-sovereignty-use-case-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/engine-naftiko-blog-post/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/fabric-blog-post-naftiko-blog-post/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/innovation-blog-post-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/docs/stories/naftiko-launch-api-evangelist-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-launch-api-evangelist-blog-post/</loc>
+    <lastmod>2026-01-06T09:43:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-launch-press-release/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/naftiko-signals-program-api-evangelist-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/naftiko-signals-program-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-signals-white-paper/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/naftiko-signals-white-paper-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/risk-blog-post-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/sql-data-acess-use-case-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/stories/velocity-blog-post-naftiko-blog-post/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/anthropic/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
@@ -383,13 +516,13 @@
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/avalara/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/bigcommerce/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/cvent/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/datadog/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
@@ -422,7 +555,7 @@
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/meta/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/services/microsoft-graph/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
@@ -469,38 +602,53 @@
     <loc>http://localhost:1313/docs/docs/services/zoom/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/about/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <loc>http://localhost:1313/docs/docs/stories-archive/capabilities-naftiko-blog-post/</loc>
+    <lastmod>2026-01-03T10:32:11-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/blog/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <loc>http://localhost:1313/docs/docs/stories-archive/naftiko-launch-naftiko-blog-post/</loc>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/blog/2025/11/04/hello-world/</loc>
+    <lastmod>2026-01-06T15:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/about/</loc>
+    <lastmod>2026-01-05T07:54:10-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/capabilities/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/channels/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/conversations/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/docs/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-03T14:51:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2026-01-02T20:08:52-05:00</lastmod>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/organizations/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/search/</loc>
     <lastmod>2026-01-02T20:08:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/services/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/standards/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/stories/</loc>
+    <lastmod>2026-01-05T17:39:34-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/blog/</loc>
+    <lastmod>2026-01-03T20:32:51-05:00</lastmod>
   </url>
 </urlset>
