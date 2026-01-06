@@ -9,4 +9,4 @@ toc_hide: true
 ## Links
 
 - [**GitHub Issue**](https://github.com/naftiko/go-to-market/issues/23)
-- [**Google Doc**]()
+- [**Google Doc**](https://docs.google.com/document/d/1XHm2ENEq6q3bp_stUGWaXRBXOBAMnPJLUHHZsr0B6c4/edit?tab=t.0)

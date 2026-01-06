@@ -1,5 +1,5 @@
 ---
-title: APIDays
+title: Nordic APIs Live Cast
 description: We sponsored and attended APIDays in Paris, launching Naftiko as a company there. Our booth was a success, with three days of non-stop conversation and engagement with the community.
 date: 2025-10-28
 weight: 6
