@@ -203,3 +203,7 @@ menu:
     - name: Home
       weight: 5
       url: /    
+
+services:
+  googleAnalytics:
+    id: G-QCRRWH50ZE

@@ -19,7 +19,7 @@
       <link>http://localhost:1313/docs/blog/2026/01/06/setting-up-youtube-apple-and-spotify-podcasts-for-naftiko-capabilities/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/blog/2026/01/06/setting-up-youtube-apple-and-spotify-podcasts-for-naftiko-capabilities/</guid>
-      <description>&lt;p&gt;I spent a couple of hours setting up the minimum viable channels needed to support the Naftiko Podcast out of the gate. It was interesting to see the difference in user experience between YouTube, Apple, and Spotify. YouTube is definitely the most advanced. I like the Apple one because it is 100% configured by an RSS feed for the podcast, which has it&amp;rsquo;s ups and downs. Spotify was by far the worst experience, with the interface spinning wheel never stopping and every other API call failing behind the scenes.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I spent a couple of hours setting up the minimum viable channels needed to support the &lt;a href=&#34;https://naftiko.io/blog/welcome-to-the-naftiko-capabilities-podcast&#34;&gt;Naftiko Podcast&lt;/a&gt; out of the gate. It was interesting to see the difference in user experience between YouTube, Apple, and Spotify. YouTube is definitely the most advanced. I like the Apple one because it is 100% configured by an RSS feed for the podcast, which has it&amp;rsquo;s ups and downs. Spotify was by far the worst experience, with the interface spinning wheel never stopping and every other API call failing behind the scenes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
