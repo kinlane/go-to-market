@@ -10,3 +10,4 @@ toc_hide: true
 
 - [**GitHub Issue**](https://github.com/naftiko/go-to-market/issues/12)
 - [**Capabilities Thinking**](https://github.com/capabilities-thinking/conversations)
+- [**Blog Post**](https://thenewstack.io/map-your-api-landscape-to-prevent-agentic-ai-disaster/)
