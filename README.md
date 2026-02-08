@@ -1,2 +1,2 @@
-# Naftiko Go-To-Market
-This is the repository for the Naftiko go-to-market documentation, sharing the plan and process behind the storytelling and conversations we are having in the community, making it something anyone can learn from and get involved with as we are building.
+# Go-To-Market
+This is where I dump all my go-to-market ideas.
